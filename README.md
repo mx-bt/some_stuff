@@ -1,6 +1,6 @@
-### Hi, I'm an Operations Mgt. student and this is my code repo.
-#### It contains the results of my university projects, the scribbles of some coding exercises and is exclusively Python code.
-#### Topics: Data Science and Data Processing, Graphics with Python
+### Hi, I'm an Operations Mgt. student and this is my public code repo.
+#### It contains the results of my university projects, the scribbles of some coding exercises and consists of 100% Python code.
+#### Topics: Data Science, Robotics, Algorithms, APIs
 
 - `hm3` A machine learning project with a browser interface using streamlit. Also plenty of exercises on mathematical computations and basic python syntax.
 - `icts` A project to make up to three robots connect via wifi and make them dance with each other, both with programmed routines but also via joystick steering. Further, some exercise scribbles from HackerRank.
