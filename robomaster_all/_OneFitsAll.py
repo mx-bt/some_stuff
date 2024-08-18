@@ -3,7 +3,7 @@ _robot_no = 2 # 0 = Master, 1 = right, 2 = left
 _connection_type = "sta" # "ap" oder "sta"
 
 list_robot_serial_numbers = ["3JKCK7W0030DCD", "3JKCK7W0030CS5", "3JKCK7W0030DFA"] # Javier, Stormtrooper, NoName
-list_laptop_ips = ["192.168.50.206","192.168.50.43","192.168.50.3"] # Max Privat, Marco, Max Arbeit
+list_laptop_ips = ["192.168.50.206","192.168.50.43","192.168.50.3"]
 
 """
 STRUKTUR GESAMTPROGRAMM
